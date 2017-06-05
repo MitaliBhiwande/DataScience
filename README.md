@@ -1,5 +1,5 @@
 # DataScience
-Various Data Mining, munging, filtering and statistical representation of data using R on Jupyter Notebooks. Processing of Large data sets using Apache Hadoop and Spark.
+Various Data Mining, munging, filtering and statistical representation of data using R on Jupyter Notebooks. Analyzing and  Processing of Large data sets using Apache Hadoop and Spark.
 
 LAB 1: DATA CLIENTS AND INFORMATION SERVERS
 

@@ -1,11 +1,6 @@
-TEAM MEMBERS:
-
-Mitali Vijay Bhiwande (UBIT: mitalivi Person number: 50208163)
-Tejasvi Balaram Sankhe (UBIT: tejasvib Person number: 50207071)
-
 Apache Spark Environment Selected:
 
-We decided to use Jupyter Notebook with PySpark on our local machines.
+ Use of Jupyter Notebook with PySpark on local machine.
 
 Setup: 
 

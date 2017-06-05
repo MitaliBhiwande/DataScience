@@ -40,6 +40,6 @@ TABLEAU INTERACTIVE DASHBOARD:
 
 Developed an interactive dashborad using Crime report data for New York City, identifying the safe areas and forecasting crime rates at various intervals in and around the city.
 
-Dashborad : https://public.tableau.com/profile/publish/CrimeDashBoard/Dashboard1#!/publish-confirm
+Dashboard : https://public.tableau.com/profile/publish/CrimeDashBoard/Dashboard1#!/publish-confirm
 
 
